@@ -1,9 +1,5 @@
-Sublime-Stuff
-=============
-
 # Plugins
-
-## Plugins
+### Plugins activated
 - Alignment
 - BacketHightlighter
 - Codekit
@@ -20,14 +16,12 @@ Sublime-Stuff
 - jQuery
 - WordPress
 
-## Interesting Plugins
+### Interesting Plugins
 - Sass for Sublime
 - Comments Snippets
-- 
 
 # Settings
-
-## User Config
+### User Config
 {
 	„bold_folder_labels“: true,
 	„color_scheme“: „Packages/Theme - Brogrammer/brogrammer.tmTheme“,
