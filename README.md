@@ -21,7 +21,7 @@
 - Comments Snippets
 
 # Settings
-### User Config
+### User Config 
 {
 	„bold_folder_labels“: true,
 	„color_scheme“: „Packages/Theme - Brogrammer/brogrammer.tmTheme“,
