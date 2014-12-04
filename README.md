@@ -20,5 +20,5 @@
 - Codekit Commands — https://sublime.wbond.net/packages/CodeKit%20Commands
 
 # Settings
-### User Config > userconfig.txt
+### User Config > userconfig.sublime-settings
 
