@@ -17,7 +17,7 @@
 	"tab_size": 2,
 	"theme": "Spacegray Eighties.sublime-theme",
 	"spacegray_tabs_font_small": true,
-	"spacegray_tabs_xlarge": true,
+	"spacegray_tabs_large": true,
 	"spacegray_sidebar_font_normal": true,
 	"spacegray_sidebar_tree_normal": true,
 	"translate_tabs_to_spaces": true,
