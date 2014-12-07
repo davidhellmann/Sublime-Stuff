@@ -13,6 +13,7 @@
 - HTMLPrettify — https://sublime.wbond.net/packages/HTML-CSS-JS%20Prettify
 - jQuery — https://sublime.wbond.net/packages/jQuery
 - WordPress — https://sublime.wbond.net/packages/WordPress
+- CSS Extended — https://github.com/subhaze/CSS-Extended
 
 ### Interesting Plugins
 - Sass for Sublime — http://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-plugins-part-2
