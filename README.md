@@ -14,6 +14,8 @@
 - jQuery — https://sublime.wbond.net/packages/jQuery
 - WordPress — https://sublime.wbond.net/packages/WordPress
 - CSS Extended — https://github.com/subhaze/CSS-Extended
+- Jade — https://packagecontrol.io/packages/Jade
+- PHP-Twig — https://packagecontrol.io/packages/PHP-Twig
 
 ### Interesting Plugins
 - Sass for Sublime — http://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-plugins-part-2
