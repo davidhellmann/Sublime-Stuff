@@ -18,7 +18,7 @@
 	"spacegray_sidebar_tree_normal": true,
 	"spacegray_tabs_font_small": true,
 	"spacegray_tabs_large": true,
-	"tab_size": 4,
+	"tab_size": 2,
 	"theme": "Numix.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
