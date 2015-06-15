@@ -8,8 +8,7 @@
 - PackageControl — https://sublime.wbond.net/
 - Sidebarenhancement — https://sublime.wbond.net/packages/SideBarEnhancements
 - Syntaxhighlighting for Sass — https://sublime.wbond.net/packages/Syntax%20Highlighting%20for%20Sass
-- Theme Brogrammer — https://sublime.wbond.net/packages/Theme%20-%20Brogrammer
-- Theme Spacegray — https://sublime.wbond.net/packages/Theme%20-%20Spacegray
+- Material Theme: https://packagecontrol.io/packages/Material%20Theme
 - HTMLPrettify — https://sublime.wbond.net/packages/HTML-CSS-JS%20Prettify
 - jQuery — https://sublime.wbond.net/packages/jQuery
 - WordPress — https://sublime.wbond.net/packages/WordPress
