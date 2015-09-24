@@ -15,6 +15,7 @@
 - CSS Extended — https://github.com/subhaze/CSS-Extended
 - Jade — https://packagecontrol.io/packages/Jade
 - PHP-Twig — https://packagecontrol.io/packages/PHP-Twig
+- docBlockr — https://github.com/spadgos/sublime-jsdocs
 
 ### Interesting Plugins
 - Sass for Sublime — http://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-plugins-part-2
